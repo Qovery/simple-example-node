@@ -160,3 +160,6 @@ typings/
 .dynamodb/
 
 .idea
+
+.qovery
+local_configuration.json
