@@ -2,7 +2,7 @@ application:
   name: simple-example-node
   project: getting-started
   publicly_accessible: true
-  ram: 1GB
+  ram: 256MB
 routers:
 - name: main
   routes:
