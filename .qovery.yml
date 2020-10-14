@@ -1,8 +1,8 @@
 application:
   name: simple-example-node
   project: getting-started
-  cloud_region: aws/us-west-2
   publicly_accessible: true
+  ram: 1GB
 routers:
 - name: main
   routes:
