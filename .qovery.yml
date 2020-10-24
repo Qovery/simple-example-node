@@ -9,3 +9,4 @@ routers:
   - application_name: simple-example-node
     paths:
     - /
+
