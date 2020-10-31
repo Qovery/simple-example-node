@@ -6,6 +6,9 @@ application:
   ram: 256MB
 routers:
 - name: main
+  custom_domains:
+    - branch: master
+      domain: abcd.qvy.io
   routes:
   - application_name: simple-example-node
     paths:
