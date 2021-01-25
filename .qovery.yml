@@ -4,6 +4,7 @@ application:
   project: getting-started
   publicly_accessible: true
   ram: 256MB
+  port: 3000
 routers:
 - name: main
   routes:
